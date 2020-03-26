@@ -14,7 +14,7 @@
      </div>
        <div>
         <label for="prenom">Prénom :</label>
-        <input type="text" id="prenom" name="firstName" placeholder="prenom" required>
+        <input type="text" id="prenom" name="firstname" placeholder="prenom" required>
     </div>
      <div>
          <label  for="courriel">Courriel :</label>
