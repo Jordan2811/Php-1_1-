@@ -12,6 +12,10 @@
          <label  for="nom">Nom :</label>
          <input  type="text"  id="nom"  name="lastname" placeholder="nom" required>
      </div>
+       <div>
+        <label for="prenom">Prénom :</label>
+        <input type="text" id="prenom" name="firstName" placeholder="prenom" required>
+    </div>
      <div>
          <label  for="courriel">Courriel :</label>
          <input  type="email"  id="courriel"  name="mail" placeholder="mail" required>
