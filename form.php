@@ -33,6 +33,7 @@
                 <option value="Thibault">Titi Inshape</option>
                 <option value="Jordan">Jojo Inshape</option>
                 <option value="Nicolas">Maître Yoda PHP</option>
+            </select>
         </div>
      <div>
          <label for="message">Message :</label>
