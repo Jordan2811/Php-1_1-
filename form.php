@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-    <html lang="fr">
+    <html lang="en">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -14,12 +14,12 @@
      </div>
      <div>
          <label  for="courriel">Courriel :</label>
-         <input  type="email"  id="courriel"  name="user_email" placeholder="mail" required>
+         <input  type="email"  id="courriel"  name="mail" placeholder="mail" required>
      </div>
      <div>
-         <label for="numero">Courriel :</label>
-         <input id="numero" name="num" pattern="[0-9]{2}*[0-9]{2}*[0-9]{2}*[0-9]{2}*[0-9]{2}"
-                placeholder="numero telephone"
+         <label for="numero">Numero :</label>
+         <input id="numero" name="phone" pattern="[0-9]{2}*[0-9]{2}*[0-9]{2}*[0-9]{2}*[0-9]{2}"
+                placeholder="phone number"
                 required type="tel">
      </div>
         <div>
