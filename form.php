@@ -7,7 +7,7 @@
         <title>1_1 Quête PHP</title>
     </head>
  <body>
- <form action="thanks.php" method="post">
+ <form action="thanks.php" method="get">
      <div>
          <label  for="nom">Nom :</label>
          <input  type="text"  id="nom"  name="lastname" placeholder="nom" required>
